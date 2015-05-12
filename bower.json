@@ -15,6 +15,6 @@
     "angular-scenario": ">= 1.0.7",
     "angular-mocks": ">= 1.0.7"
   },
-  "main": "./dist/angular-vin.js",
+  "main": "./dist/assets/angular-vin.js",
   "ignore": ["./node_modules/"]
 }
